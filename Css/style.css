@@ -151,7 +151,7 @@
         margin-top: 750px;
         position: relative;
         /* background-color: #000000; */
-        background: fixed no-repeat url(/img/photographer_camera_dark_133781_3840x2400.jpg);
+        background: fixed no-repeat url(/photographer/img/photographer_camera_dark_133781_3840x2400.jpg);
         background-size: cover;
         height: 70vh;
         width: 100%;
